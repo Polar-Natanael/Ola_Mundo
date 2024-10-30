@@ -1,4 +1,5 @@
 # Olá, Mundo!
- Primeiro repositorio_Aprendendo git e gitHub.
+ Primeiro repositorio.
+ Aprendendo git e gitHub.
  
  Sou um gafanhoto!
